@@ -1,0 +1,26 @@
+
+.hour{
+    float:left;
+    border: 0px solid black;
+    margin: 5px;
+    width: 100px;
+}
+
+.container{
+    text-align: center;
+    border: 2px solid black;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.innerContainer{
+     display: inline-block;
+}
+
+.condition{
+    word-wrap:break-word;
+}
